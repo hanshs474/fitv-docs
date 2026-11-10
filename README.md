@@ -1,3 +1,5 @@
-# fitv-docs
+# Free Image to Video docs
 
-Docs for [Fitv](https://freeimagetovideo.ai) — Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark.
+Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. This repository is the source of the official API, MCP and SDK documentation for [Free Image to Video](https://freeimagetovideo.ai/?utm_source=github&utm_medium=docs), published at [freeimagetovideo.readthedocs.io](https://freeimagetovideo.readthedocs.io/).
+
+MkDocs, built by Read the Docs on every push. Pages live in `docs/`.

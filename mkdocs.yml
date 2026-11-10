@@ -1,8 +1,15 @@
-site_name: Fitv — Free Image to Video AI
-site_url: https://fitv.readthedocs.io/en/latest/
+site_name: Free Image to Video API and SDKs
+site_url: https://freeimagetovideo.readthedocs.io/en/latest/
 repo_url: https://github.com/hanshs474/fitv-docs
-site_description: "Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark."
+site_description: "Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. This is the official API, MCP and SDK documentation for Free Image to Video."
 theme: readthedocs
 nav:
-  - Home: index.md
-  - Pricing: pricing.md
+  - Quick start: index.md
+  - HTTP API: http.md
+  - MCP server (Claude, Cursor, any MCP client): mcp.md
+  - SDKs: sdk/index.md
+  - Python: sdk/python.md
+  - JavaScript / TypeScript: sdk/javascript.md
+  - Go: sdk/go.md
+  - Rust: sdk/rust.md
+  - Plans and API runs: pricing.md
